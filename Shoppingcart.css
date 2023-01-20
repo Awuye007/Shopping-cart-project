@@ -1,0 +1,91 @@
+.nav{
+    margin-top: 40px;
+    padding-left: 40px;
+}
+
+.sizes{
+    margin-left: 20px;
+}
+
+.product{
+    padding-left: 50px;
+    font-weight: 600;
+}
+
+#inlineFormCustomSelectPref{
+    width: 200px;
+}
+
+.content{
+    margin-top: 20px;
+}
+
+.btn-primary{
+    color: white;
+    background-color: black;
+    border-color: black;
+    width: 250px;
+}
+
+.btn-light{
+    border-radius: 50%;
+    font-size: 13px;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+    background-color: rgb(232, 247, 250);
+}
+
+.buttons{
+    margin-left: 50px;
+}
+
+.card{
+    border: 0px;
+    margin-bottom: 15px;
+}
+
+.card-img-top{
+    height:350px;
+    width: 300px;
+}
+
+label[for='inlineFormCustomSelectPref']
+{
+  font-weight: 600;
+}
+
+.badge-dark{
+    width: 90px;
+    height: 20px;
+    transform: translate(200px,5px) !important ;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+strong{
+    font-size: 35px;
+    font-weight: 800px;
+}
+
+.price{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.alternative{
+    color: rgb(128, 128, 128);
+}
+
+.star{
+    background-color: rgba(230, 230, 230, 0.544) ;
+    border-color:rgba(230, 230, 230, 0.544)  ;
+    color: black;
+}
+.number{
+    background-color: rgb(221, 237, 242);
+    border-color: rgb(221, 237, 242) ;
+    color: rgb(48, 47, 47);
+}
